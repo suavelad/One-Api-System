@@ -2,7 +2,7 @@
 This is a sample project to replicate the  sample project in https://the-one-api.dev/documentation
 
 
-# To Start the project:
+# To Start the project on a Local Machine:
 
 A.  Clone the project 
 B.  Setup a virtual environment and install the requirements.txt file
