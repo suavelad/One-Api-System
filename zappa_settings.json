@@ -1,0 +1,17 @@
+{
+    "dev": {
+        "aws_region": "us-east-1",
+        "django_settings": "one_api_project.one_api_project.settings",
+        "profile_name": "default",
+        "project_name": "one-api-assessm",
+        "runtime": "python3.9",
+        "s3_bucket": "zappa-5zc72oio7",
+        "timeout_seconds": 900,
+        "manage_roles": false,
+        // "role_name": "ZappaDjangoRole",
+        // "role_name": "DjangoZappa",
+
+        "role_arn": "arn:aws:iam::203798221004:policy/MY_S3_READER"
+        // "role_arn": "arn:aws:iam::203798221004:role/DjangoZappa"
+    }
+}
